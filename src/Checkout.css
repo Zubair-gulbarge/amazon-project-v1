@@ -1,6 +1,6 @@
 .checkout{
     display: flex;
-    background-color: white;
+    background-color: bisque;
     height: max-content;
     padding: 20px;
 }
@@ -9,7 +9,16 @@
     background-color: white;
 }
 
+.checkout__adv{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 .checkout__title{
     border-bottom: 1px solid black;
     padding: 10px;
+}
+
+.chekout__right{
+    background-color: aqua;
 }
