@@ -1,11 +1,11 @@
 .checkout{
-    display: flex;
     background-color: bisque;
+    display: flex;
     height: max-content;
     padding: 20px;
 }
 
-.chekout__left{
+.checkout__left{
     background-color: white;
 }
 
@@ -15,10 +15,10 @@
 }
 
 .checkout__title{
-    border-bottom: 1px solid black;
     padding: 10px;
+    border-bottom: 1px solid black;
 }
 
-.chekout__right{
+.checkout__right{
     background-color: aqua;
 }
